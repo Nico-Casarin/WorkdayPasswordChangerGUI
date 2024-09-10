@@ -193,7 +193,6 @@
             textSearch.Name = "textSearch";
             textSearch.Size = new System.Drawing.Size(287, 23);
             textSearch.TabIndex = 1;
-            textSearch.UseWaitCursor = true;
             textSearch.TextChanged += textBox1_TextChanged;
             textSearch.KeyDown += textSearch_KeyDown;
             // 
